@@ -15,7 +15,7 @@
 /*
 	***** BEGIN LICENSE BLOCK *****
 	
-	RKE Web translator Copyright © 2016 Maike Kittelmann
+	ISTC Web translator Copyright © 2016 Maike Kittelmann
 	This file is part of Zotero.
 	
 	Zotero is free software: you can redistribute it and/or modify
